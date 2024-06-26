@@ -1,0 +1,10 @@
+id,feature imp,feature,actual ,predicted,probability 
+1,0.25,Age,1,1,0.87
+2,0.2,Income,0,0,0.74
+3,0.15,Gender,1,1,0.68
+4,0.1,location,0,1,0.85
+5,0.1,occupation,1,1,0.8
+6,0.005,education,0,0,0.88
+7,0.005,marital status,1,1,0.65
+8,0.5,credit score,0,1,0.92
+9,0.05,loan amount,1,1,0.78
